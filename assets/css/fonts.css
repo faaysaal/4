@@ -1,0 +1,7 @@
+@font-face{
+	font-family:"lato";
+	src:url("../fonts/lato/Lato-Medium.eot") format("eot"),
+	url("../fonts/lato/Lato-Medium.woff") format("woff"),
+	url("../fonts/lato/Lato-Medium.ttf") format("truetype"),
+	url("../fonts/lato/Lato-Medium.svg#Lato-Medium") format("svg");
+}
